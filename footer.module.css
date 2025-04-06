@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #111;
+    color: #bbb;
+}
+
+.socila{
+    display: flex;
+    gap: 20px;
+}
+
+.icon{
+    cursor: pointer;
+}
+.icon:hover{
+    color: #53c28b;
+}
